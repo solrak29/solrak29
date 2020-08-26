@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋  I'm ✨ Carlos ✨
 
+<img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" height=300 />
+
+- 📫 How to reach me: carlos.negron.nyc@gmail.com
 <!--
 **solrak29/solrak29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
